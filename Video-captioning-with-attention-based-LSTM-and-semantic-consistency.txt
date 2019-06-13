@@ -1,0 +1,5 @@
+L. Gao, Z. Guo, H. Zhang, X. Xu and H. T. Shen, "Video Captioning With Attention-Based LSTM and Semantic Consistency," in IEEE Transactions on Multimedia, vol. 19, no. 9, pp. 2045-2055, Sept. 2017.
+doi: 10.1109/TMM.2017.2729019
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7984828&isnumber=8010475
+
+
